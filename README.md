@@ -22,10 +22,10 @@ java-app/
 ```
 ### Ensure you have the following installed on your machine:
 #### Ensure you have the following installed on your machine:
-```
-java -version ## (8+ version)
-mvn -version
-git --version
-docker --version
-```
+
+- java -version ## (8+ version)
+- mvn -version
+- git --version
+- docker --version
+  
 
