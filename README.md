@@ -18,6 +18,10 @@ java-app/
 │── Dockerfile
 │── .gitignore
 │── README.md
+
 ```
+## Prerequisites
+### Ensure you have the following installed on your machine:
+
 
 
