@@ -35,6 +35,7 @@ java-app/
 ``
 docker build -t <NAME-OF-THE-IMAGE> .
 ``
+
 ``
 docker run <NAME-OF-THE-IMAGE>
 ``
